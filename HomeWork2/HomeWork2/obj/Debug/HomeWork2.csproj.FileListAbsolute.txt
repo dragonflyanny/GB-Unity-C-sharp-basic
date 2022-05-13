@@ -1,0 +1,11 @@
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe.config
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork2\HomeWork2\bin\Debug\HomeWork2.pdb
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork2\HomeWork2\bin\Debug\hw.Utils.dll
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork2\HomeWork2\bin\Debug\hw.Utils.pdb
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.AssemblyReference.cache
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.SuggestedBindingRedirects.cache
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.CoreCompileInputs.cache
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.CopyComplete
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork2\HomeWork2\obj\Debug\HomeWork2.exe
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork2\HomeWork2\obj\Debug\HomeWork2.pdb
