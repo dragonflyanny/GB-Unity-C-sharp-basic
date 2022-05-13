@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\HomeWork\hw.Utils\hw.Utils.csproj">
+      <Project>{e5f2fee0-dc5a-4aae-b875-e061ff0dfd88}</Project>
+      <Name>hw.Utils</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
