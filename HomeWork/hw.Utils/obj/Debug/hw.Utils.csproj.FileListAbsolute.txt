@@ -1,0 +1,6 @@
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork\hw.Utils\bin\Debug\hw.Utils.dll
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork\hw.Utils\bin\Debug\hw.Utils.pdb
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork\hw.Utils\obj\Debug\hw.Utils.csproj.AssemblyReference.cache
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork\hw.Utils\obj\Debug\hw.Utils.csproj.CoreCompileInputs.cache
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork\hw.Utils\obj\Debug\hw.Utils.dll
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork\hw.Utils\obj\Debug\hw.Utils.pdb
