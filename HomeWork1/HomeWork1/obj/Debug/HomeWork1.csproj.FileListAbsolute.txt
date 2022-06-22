@@ -1,0 +1,8 @@
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork1\HomeWork1\obj\Debug\HomeWork1.csproj.AssemblyReference.cache
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork1\HomeWork1\obj\Debug\HomeWork1.csproj.SuggestedBindingRedirects.cache
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork1\HomeWork1\obj\Debug\HomeWork1.csproj.CoreCompileInputs.cache
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork1\HomeWork1\bin\Debug\HomeWork1.exe.config
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork1\HomeWork1\bin\Debug\HomeWork1.exe
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork1\HomeWork1\bin\Debug\HomeWork1.pdb
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork1\HomeWork1\obj\Debug\HomeWork1.exe
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork1\HomeWork1\obj\Debug\HomeWork1.pdb
