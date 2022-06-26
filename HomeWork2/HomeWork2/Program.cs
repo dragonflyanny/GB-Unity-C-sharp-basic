@@ -119,7 +119,7 @@ namespace HomeWork2
             #region Получаем данные
             Console.WriteLine("Для выполнения потребуется ввести число. " +
                 "Вы можете вводить отрицательные и положительные числа в пространстве " +
-                "от -2 147 483 647 до 2 147 483 647. \nВведите первое число: ");
+                "от -2 147 483 647 до 2 147 483 647. \nВведите число: ");
             int a = int.Parse(Console.ReadLine());
             int b = a;
             int count = 0;
@@ -149,11 +149,13 @@ namespace HomeWork2
             Console.WriteLine("Пожалуйста, введите число. При введении числа 0 вводи чисел будет завершен, и будет подсчитана сумма всех введенных чисел");
             int a;
             int count = 0;
+            int c;
             do
             {
                 Console.Write("Введите число:");
                 a = int.Parse(Console.ReadLine());
-                count = count + a;
+                c = ((a % 2 == 0) ? 0 : a);
+                count = count + c;
             }
             while (a != 0);
             Console.WriteLine($"Общая сумма всех введенных чисел равна {count}");
