@@ -65,9 +65,9 @@ namespace HomeWork3
                 int count = 0;
                 for (int i = 1; i < a.Length; i++)
                     if 
-                        //(a[i] % 3 ==0 && a[i+1] % 3 == 0)
+
                         (a[i-1] % 3 == 0 || a[i] % 3 == 0) count++;
-                //            Console.WriteLine("Значение {0} {1}", e, res02 >= 0 ? $"найдено по индексу {res02}" : "не найдено в массиве.");
+
                 return count;
             }
         }
