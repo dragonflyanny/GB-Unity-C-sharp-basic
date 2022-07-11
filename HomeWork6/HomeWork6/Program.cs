@@ -26,7 +26,7 @@ namespace HomeWork5
             double res = operation(a, b);
             Console.WriteLine($" = {res}");
         }
-        // Создаем метод для передачи его в качестве параметра в Table
+        // Создаем метод для передачи его в качестве параметра в Tablef
         public static double Sqrt(double a, double b)
         {
             Console.Write($"{a} * {b} * 2");
