@@ -1,0 +1,11 @@
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork7-1\HomeWork7-1\obj\Debug\HomeWork7-1.csproj.AssemblyReference.cache
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork7-1\HomeWork7-1\obj\Debug\HomeWork7-1.csproj.SuggestedBindingRedirects.cache
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork7-1\HomeWork7-1\obj\Debug\HomeWork7_1.Properties.Resources.resources
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork7-1\HomeWork7-1\obj\Debug\HomeWork7-1.csproj.GenerateResource.cache
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork7-1\HomeWork7-1\obj\Debug\HomeWork7-1.csproj.CoreCompileInputs.cache
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork7-1\HomeWork7-1\bin\Debug\HomeWork7-1.exe.config
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork7-1\HomeWork7-1\bin\Debug\HomeWork7-1.exe
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork7-1\HomeWork7-1\bin\Debug\HomeWork7-1.pdb
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork7-1\HomeWork7-1\obj\Debug\HomeWork7-1.exe
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork7-1\HomeWork7-1\obj\Debug\HomeWork7-1.pdb
+D:\обучение geekbrains\GB-Unity-C-sharp-basic\HomeWork7-1\HomeWork7-1\obj\Debug\HomeWork7_1.Main.resources
