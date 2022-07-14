@@ -131,6 +131,8 @@
             this.Controls.Add(this.buttonMulty);
             this.Controls.Add(this.buttonPlus);
             this.Controls.Add(this.buttonReset);
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "Main";
             this.ResumeLayout(false);
             this.PerformLayout();

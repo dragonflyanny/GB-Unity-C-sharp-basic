@@ -23,6 +23,7 @@ namespace HomeWork7_1
             UpdateState(userNumber, random.Next(20));
             count = 0;
             UpdateCount(count);
+
         }
         private void UpdateState(int userNamber)
         {
@@ -74,11 +75,11 @@ namespace HomeWork7_1
         {
             if (userNumber > computerNumber)
             {
-                MessageBox.Show("Ваше число больше загаданного", "Две игры", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                labelAnswer.Text = $"Ваше число {userNumber} больше загаданного";
             }
-            if (userNumber > computerNumber)
+            if (userNumber < computerNumber)
             {
-                MessageBox.Show("Ваше число меньше загаданного", "Две игры", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                labelAnswer.Text = $"Ваше число {userNumber} меньше загаданного";
             }
             if (userNumber == computerNumber)
             {
@@ -96,19 +97,24 @@ namespace HomeWork7_1
             labelUserNumber.Visible = true;
             labelCount.Visible = true;
             buttonReset.Visible = true;
-            labelAnswer.Visible = true;
-
+            labelAnswer.Visible = false;
+            buttonUdvo.Visible = false;
+            buttonUgad.Visible = true;
 
 
             textBoxUserNumber.Visible = false;
             buttonOk.Visible = false;
+            labelInfo.Text = "Выбрана игра Удвоитель. Необходимо за минимум ходов набрать число, загаданное компьютером, использую кнопки +1 и х2";
 
+            UpdateState(userNumber, random.Next(20));
+            count = 0;
+            UpdateCount(count);
         }
 
         private void buttonUgad_Click(object sender, EventArgs e)
         {
-        labelComputerNumber.Visible = true;
-        labelUserNumber.Visible = true;
+        labelComputerNumber.Visible = false;
+        labelUserNumber.Visible = false;
         textBoxUserNumber.Visible = true;
         buttonOk.Visible = true;
             labelCount.Visible = true;
@@ -118,7 +124,13 @@ namespace HomeWork7_1
             buttonPlus.Visible = false;
             buttonMulty.Visible = false;
             labelAnswer.Visible = true;
+            buttonUdvo.Visible = true;
+            buttonUgad.Visible = false;
+            labelInfo.Text = "Выбрана игра Угадай число. Необходимо за минимум ходов угадать число, загаднное компьютером (число в диапазоне от 0 до 20";
 
+            UpdateState(userNumber, random.Next(20));
+            count = 0;
+            UpdateCount(count);
 
 
 
@@ -129,7 +141,10 @@ namespace HomeWork7_1
             userNumber = Convert.ToInt32(textBoxUserNumber.Text);
             UpdateCount(++count);
             СheckNumber();
-            //textBoxUserNumber.Text = "";
+            textBoxUserNumber.Text = "";
+
         }
+
+
     }
 }
